@@ -1,0 +1,2 @@
+firstname,lastname,username,password,currentweight,goalweight,age,height,startweight,metrics
+Marchrista,Jones,Christa,bubbles,185,165,24,5'3,185,pounds
